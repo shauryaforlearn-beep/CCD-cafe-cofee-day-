@@ -1,0 +1,6 @@
+{
+  "name": "Café Coffee Day",
+  "description": "A lot can happen over coffee — explore signature brews, Chikmagalur single-estate roasts, café locations across India, and express café pickup ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
